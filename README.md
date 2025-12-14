@@ -38,20 +38,17 @@ to identify the most effective approach for **30-day stock price forecasting**.
 ---
 ## 📊 Forecast Visualizations
 
-### 🔹 ZEEL – 30 Day Forecast
-![ZEEL Forecast](newplot.png)
+![Stock 1 Forecast](newplot.png)
+![Stock 2 Forecast](newplot%20(1).png)
+![Stock 3 Forecast](newplot%20(2).png)
+![Stock 4 Forecast](newplot%20(3).png)
+![Stock 5 Forecast](newplot%20(4).png)
+![Stock 6 Forecast](newplot%20(5).png)
+![Stock 7 Forecast](newplot%20(6).png)
+![Stock 8 Forecast](newplot%20(7).png)
+![Stock 9 Forecast](newplot%20(8).png)
+![Stock 10 Forecast](newplot%20(9).png)
 
-### 🔹 TATAMOTORS – 30 Day Forecast
-![TATAMOTORS Forecast](newplot%20(1).png)
-
-### 🔹 SBIN – 30 Day Forecast
-![SBIN Forecast](newplot%20(2).png)
-
-### 🔹 RELIANCE – 30 Day Forecast
-![RELIANCE Forecast](newplot%20(3).png)
-
-### 🔹 AXISBANK – 30 Day Forecast
-![AXISBANK Forecast](newplot%20(4).png)
 
 **Legend**
 - 🔵 Blue Line → Historical Closing Prices
