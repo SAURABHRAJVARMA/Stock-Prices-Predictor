@@ -1,0 +1,20 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Time Series
+pmdarima
+statsmodels
+
+# Deep Learning
+tensorflow
+
+# Utilities
+tqdm
