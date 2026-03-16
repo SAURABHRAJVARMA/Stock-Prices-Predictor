@@ -38,16 +38,16 @@ to identify the most effective approach for **30-day stock price forecasting**.
 ---
 ## 📊 Forecast Visualizations
 
-![Stock 1 Forecast](newplot.png)
-![Stock 2 Forecast](newplot%20(1).png)
-![Stock 3 Forecast](newplot%20(2).png)
-![Stock 4 Forecast](newplot%20(3).png)
-![Stock 5 Forecast](newplot%20(4).png)
-![Stock 6 Forecast](newplot%20(5).png)
-![Stock 7 Forecast](newplot%20(6).png)
-![Stock 8 Forecast](newplot%20(7).png)
-![Stock 9 Forecast](newplot%20(8).png)
-![Stock 10 Forecast](newplot%20(9).png)
+![Stock 1 Forecast](Plots/newplot.png)
+![Stock 2 Forecast](Plots/newplot%20(1).png)
+![Stock 3 Forecast](Plots/newplot%20(2).png)
+![Stock 4 Forecast](Plots/newplot%20(3).png)
+![Stock 5 Forecast](Plots/newplot%20(4).png)
+![Stock 6 Forecast](Plots/newplot%20(5).png)
+![Stock 7 Forecast](Plots/newplot%20(6).png)
+![Stock 8 Forecast](Plots/newplot%20(7).png)
+![Stock 9 Forecast](Plots/newplot%20(8).png)
+![Stock 10 Forecast](Plots/newplot%20(9).png)
 
 
 **Legend**
